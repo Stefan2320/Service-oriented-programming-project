@@ -1,0 +1,19 @@
+.playlist {
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 20px;
+}
+
+.playlist h3 {
+  margin-bottom: 10px;
+}
+
+.playlist ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.playlist li {
+  margin-bottom: 10px;
+}
+
